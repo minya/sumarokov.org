@@ -13,6 +13,11 @@ handlers:
   static_files: index.html
   upload: index.html
 
+# Google apps domain verification
+#- url: /google539546e8c320d61f.html
+#  static_files: google539546e8c320d61f.html
+#  upload: google539546e8c320d61f.html
+
 - url: /robots.txt
   static_files: robots.txt
   upload: robots.txt
